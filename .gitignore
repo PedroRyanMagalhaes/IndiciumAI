@@ -1,1 +1,10 @@
-/.venv
+# Ambiente virtual Python
+.venv/
+
+# Arquivos gerados
+*.html
+*.db
+*.txt
+
+# Dados
+data/
